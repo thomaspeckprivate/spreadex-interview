@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ThomasPeck": {
+      "commandName": "Project",
+      "commandLineArgs": "\"FTSE100,6920,6910|DAX,6920,6910|GBPUSD,0.0006,0.0004\" \"FTSE100,6900.4,5.1|FTSE100,6910.1,-6.2|DAX,9620,2.5\""
+    }
+  }
+}
